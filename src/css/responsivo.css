@@ -1,0 +1,34 @@
+@media (max-width: 1125px){
+    .header_box .logo{
+        max-width: 190px;
+    }
+    .select_box{
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+    .select_box .select_hero_01{
+        margin-top: 37px;
+    }
+    .select_box .select_hero_01 .title{
+        font-size: 16px;
+    }
+    .select_box .list_hero {
+        
+        gap: 9px;
+        
+
+}
+.select_hero_01 .hero img{
+    width: 80px;
+}
+.start_02 .hero_png{
+    width: 350px;
+    height: 350px;
+}
+.start_02 .info_hero .description_hero {
+    width: 80%;
+    font-size: 16px;
+    margin: 20px auto;
+}
+}
